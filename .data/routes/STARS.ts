@@ -155,6 +155,37 @@ export const STARS: TStars = {
     }
   },
 
+  	"EGFF": {
+		"12": {
+			"BAJJA1C": [
+				"BAJJA", "BCN", "CDF"
+     		],
+			"DAWLY1C": [
+				"DAWLY", "IZLAW", "EXMOR", "CDF"
+			],
+			"ELREW1C": [
+				"ELREW", "BCN", "CDF"
+			],
+			"TOJAQ2C": [
+				"TOJAQ", "FARJO", "IZLAW", "EXMOR", "CDF"
+			]
+    },
+		"30": {
+			"BAJJA1C": [
+				"BAJJA", "BCN", "CDF"
+     		],
+			"DAWLY1C": [
+				"DAWLY", "IZLAW", "EXMOR", "CDF"
+			],
+			"ELREW1C": [
+				"ELREW", "BCN", "CDF"
+			],
+			"TOJAQ2C": [
+				"TOJAQ", "FARJO", "IZLAW", "EXMOR", "CDF"
+			]
+		}
+	},
+
 	"LCLK": {
 		"04": {
 			"LUBES1R": [
