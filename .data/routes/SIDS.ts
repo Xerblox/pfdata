@@ -258,7 +258,7 @@ export const SIDS: TSids = {
 
 	"LPMA": {
 		"05": {
-			"LAPAA1E": [
+			"LAPPA1E": [
 				"MA647", "PS702", "LAPPA"
 			],
 			"DEGUN1E": [
@@ -275,7 +275,7 @@ export const SIDS: TSids = {
 			]
 		},
 		"23": {
-			"LAPAA1W": [
+			"LAPPA1W": [
 				"MA647", "PS702", "LAPPA"
 			],
 			"DEGUN1W": [
