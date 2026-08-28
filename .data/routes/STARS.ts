@@ -152,32 +152,6 @@ export const STARS: TStars = {
 		}
 	},
 
-	"LEMH": {
-		"01": {
-			"Vectors": []
-		},
-		"19": {
-			"Vectors": []
-		}
-	},
-
-	"EFKT": {
-		"16": {
-			"Vectors": []
-		},
-		"34": {
-			"KRDSH1A": [
-				"KRDSH", "DELTA", "LIMA", "SUDIP"
-			],
-			"KIT2D": [
-				"KIT", "SUDIP"
-			],
-			"EFLA3C": [
-				"EFLA", "BRAVO", "SUDIP"
-			]
-		}
-	},
-
 	"EGHI": {
 		"02": {
 			"Vectors": []

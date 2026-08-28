@@ -205,37 +205,6 @@ export const SIDS: TSids = {
 		}
 	},
 
-	"LEMH": {
-		"01": {
-			"SARGO2B": [
-				"SARGO"
-			],
-			"MEROS3C": [
-				"MEROS"
-			]
-		},
-		"19": {
-			"Vectors": []
-		}
-	},
-
-	"EFKT": {
-		"16": {
-			"Vectors": []
-		},
-		"34": {
-			"SPECA1A": [
-				"KITTL", "HTML"
-			],
-			"KEFT2D": [
-				"KRDSH", "KEDF"
-			],
-			"ROSE3C": [
-				"DELTA", "ROSE"
-			]
-		}
-	},
-
 	"EGHI": {
 		"02": {
 			"Vectors": []
