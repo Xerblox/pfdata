@@ -2,11 +2,34 @@
   {
     "name": "Santo Domingo Control",
     "callsign": "MDCS_CTR",
+    "frequency": 124.8,
+    "facility": "Enroute",
+    "line1": "Santo Domingo Control",
+    "line2": "Coverage at map.pfatc.net",
+    "line3": "Pilot briefings at wiki.pfatc.net/pilots/briefings",
+    "line4": "Submit feedback at feedback.pfatc.net",
+    "sectors": ["MDCS"]
+  },
+  {
+    "name": "Santo Domingo Control",
+    "callsign": "MDCS_N_CTR",
     "frequency": 124.3,
     "facility": "Enroute",
     "line1": "Santo Domingo Control",
     "line2": "Coverage at map.pfatc.net",
     "line3": "Pilot briefings at wiki.pfatc.net/pilots/briefings",
-    "line4": "Submit feedback at feedback.pfatc.net"
+    "line4": "Submit feedback at feedback.pfatc.net",
+    "sectors": ["MDCS"]
+  },
+  {
+    "name": "Santo Domingo Control",
+    "callsign": "MDCS_S_CTR",
+    "frequency": 124.6,
+    "facility": "Enroute",
+    "line1": "Santo Domingo Control",
+    "line2": "Coverage at map.pfatc.net",
+    "line3": "Pilot briefings at wiki.pfatc.net/pilots/briefings",
+    "line4": "Submit feedback at feedback.pfatc.net",
+    "sectors": ["MDCS"]
   }
 ]
