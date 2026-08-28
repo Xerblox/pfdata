@@ -221,6 +221,43 @@ export const SIDS: TSids = {
 		}
 	},
 
+	"LPMA": {
+		"05": {
+			"LAPA1E": [
+				"MA647", "PS702", "LAPPA"
+			],
+			"DEGU1E": [
+				"MA647", "DEGUN"
+			],
+			"GOSG1E": [
+				"GOSGA"
+			],
+			"GALO1E": [
+				"MA401", "MA402", "MA403", "GALOZ"
+			],
+			"NIDU1E": [
+				"MA401", "MA402", "NIDUL"
+			]
+		},
+		"23": {
+			"LAPA1W": [
+				"MA647", "PS702", "LAPPA"
+			],
+			"DEGU1W": [
+				"MA647", "DEGUN"
+			],
+			"GOSG1W": [
+				"GOSGA"
+			],
+			"GALO1W": [
+				"MA401", "MA402", "MA403", "GALOZ"
+			],
+			"NIDU1W": [
+				"MA401", "MA402", "NIDUL"
+			]
+		},
+	},
+
 	"PAFA": {
 		"02L": {
 			"GLEEN8": [
