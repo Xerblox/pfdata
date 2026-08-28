@@ -1,13 +1,13 @@
 [
   {
     "name": "Lisboa Control",
-    "callsign": "LPPC_O_CTR",
-    "frequency": 0.0,
+    "callsign": "LPPC_CTR",
+    "frequency": 132.555,
     "facility": "Enroute",
     "line1": "Lisboa Control | CPDLC [INOP]",
-    "line2": "Submit feedback at feedback.pfatc.net",
-    "line3": "",
-    "line4": "",
+    "line2": "Coverage at map.pfatc.net",
+    "line3": "Pilot briefings at wiki.pfatc.net/pilots/briefings",
+    "line4": "Submit feedback at feedback.pfatc.net",
     "sectors": ["LPPC"]
   }
 ]
