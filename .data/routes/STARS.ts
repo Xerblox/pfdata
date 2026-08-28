@@ -157,30 +157,30 @@ export const STARS: TStars = {
 
   	"EGFF": {
 		"12": {
-			"BAJA1C": [
+			"BAJJA1C": [
 				"BAJJA", "BCN", "CDF"
      		],
-			"DAWL1C": [
+			"DAWLY1C": [
 				"DAWLY", "IZLAW", "EXMOR", "CDF"
 			],
-			"ELRE1C": [
+			"ELREW1C": [
 				"ELREW", "BCN", "CDF"
 			],
-			"TOJA2C": [
+			"TOJAQ2C": [
 				"TOJAQ", "FARJO", "IZLAW", "EXMOR", "CDF"
 			]
     },
 		"30": {
-			"BAJA1C": [
+			"BAJJA1C": [
 				"BAJJA", "BCN", "CDF"
      		],
-			"DAWL1C": [
+			"DAWLY1C": [
 				"DAWLY", "IZLAW", "EXMOR", "CDF"
 			],
-			"ELRE1C": [
+			"ELREW1C": [
 				"ELREW", "BCN", "CDF"
 			],
-			"TOJA2C": [
+			"TOJAQ2C": [
 				"TOJAQ", "FARJO", "IZLAW", "EXMOR", "CDF"
 			]
 		}
