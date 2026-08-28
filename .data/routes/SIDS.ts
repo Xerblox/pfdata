@@ -118,11 +118,13 @@ export const SIDS: TSids = {
 	},
 
 	"EGKK": {
-		"08L": {
-			"Vectors": []
-		},
 		"08R": {
-			"Vectors": []
+            "IMVUR1Z": [ 
+                 "KKN09", "KKW19" , "IMVUR" 
+            ],
+            "ODVIK2Z": [ 
+                 "KKE04", "KKE10", "KKE17", "ODVIK"
+            ]
 		},
 		"26L": {
 			"BOGNA1X": [
@@ -157,10 +159,10 @@ export const SIDS: TSids = {
     },
 		"27": {
 			"BPK1A": [
-				"LCW01", "LCN01", "LCN04", "LCN05", "BPK"
+				"LCW01", "LCN02", "BPK"
       ],
       "ODUKU1A": [
-				"LCW01", "LCN02", "LCE04", "ODUKU"
+				"LCW01", "LCN03", "LCE04", "ODUKU"
 			]
 		}
 	},
