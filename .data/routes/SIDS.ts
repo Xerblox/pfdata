@@ -122,120 +122,6 @@ export const SIDS: TSids = {
 		}
 	},
 
-	"GCLP": {
-		"03L": {
-			"KOPUD1A": [
-				"ECKOS", "KOPUD"
-			],
-			"KOPUD1B": [
-				"LP101", "TUPIK", "KOPUD"
-			],
-			"COSTI4A": [
-				"ECKOS", "COSTI"
-			],
-			"COSTI4B": [
-				"LP101", "COSTI"
-			],
-			"ODEGI2A": [
-				"ECKOS", "LP102", "LP103", "ODEGI"
-			],
-			"ODEGI2B": [
-				"DRANO", "ODEGI"
-			]
-		},
-		"03R": {
-			"KOPUD1A": [
-				"ECKOS", "KOPUD"
-			],
-			"KOPUD1B": [
-				"LP101", "TUPIK", "KOPUD"
-			],
-			"COSTI4A": [
-				"ECKOS", "COSTI"
-			],
-			"COSTI4B": [
-				"LP101", "COSTI"
-			],
-			"ODEGI2A": [
-				"ECKOS", "LP102", "LP103", "ODEGI"
-			],
-			"ODEGI2B": [
-				"DRANO", "ODEGI"
-			]
-		},
-		"21L": {
-			"KOPUD1A": [
-				"ECKOS", "KOPUD"
-			],
-			"KOPUD1B": [
-				"LP101", "TUPIK", "KOPUD"
-			],
-			"COSTI4A": [
-				"ECKOS", "COSTI"
-			],
-			"COSTI4B": [
-				"LP101", "COSTI"
-			],
-			"ODEGI2A": [
-				"ECKOS", "LP102", "LP103", "ODEGI"
-			],
-			"ODEGI2B": [
-				"DRANO", "ODEGI"
-			]
-		},
-		"21R": {
-			"KOPUD1A": [
-				"ECKOS", "KOPUD"
-			],
-			"KOPUD1B": [
-				"LP101", "TUPIK", "KOPUD"
-			],
-			"COSTI4A": [
-				"ECKOS", "COSTI"
-			],
-			"COSTI4B": [
-				"LP101", "COSTI"
-			],
-			"ODEGI2A": [
-				"ECKOS", "LP102", "LP103", "ODEGI"
-			],
-			"ODEGI2B": [
-				"DRANO", "ODEGI"
-			]
-		}
-	},
-
-	"LEMH": {
-		"01": {
-			"SARGO2B": [
-				"SARGO"
-			],
-			"MEROS3C": [
-				"MEROS"
-			]
-		},
-		"19": {
-			"Vectors": []
-		}
-	},
-
-	"EFKT": {
-		"16": {
-			"Vectors": []
-		},
-		"34": {
-			"SPECA1A": [
-				"KITTL", "HTML"
-			],
-			"KEFT2D": [
-				"KRDSH", "KEDF"
-			],
-			"ROSE3C": [
-				"DELTA", "ROSE"
-			]
-		}
-	},
-
 	"EGHI": {
 		"02": {
 			"Vectors": []
@@ -248,13 +134,19 @@ export const SIDS: TSids = {
   "EGLC": {
 		"09": {
 			"BPK1H": [
-				"LCE01"
+				"LCE01", "LCN03", "BPK"
+      ],
+			"ODUKU1H": [
+				"LCE01", "LCE02", "ODUKU"
 			]
     },
 		"27": {
 			"BPK1A": [
 				"LCW01", "LCN01", "LCN04", "LCN05", "BPK"
       ],
+      "ODUKU1A": [
+				"LCW01", "LCN02", "LCE04", "ODUKU"
+			]
 		}
 	},
 

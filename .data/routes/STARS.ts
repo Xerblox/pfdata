@@ -135,48 +135,7 @@ export const STARS: TStars = {
 		"30": {
 			"Vectors": []
 		}
-	},
-
-	"GCLP": {
-		"03L": {
-			"Vectors": []
-		},
-		"03R": {
-			"Vectors": []
-		},
-		"21L": {
-			"Vectors": []
-		},
-		"21R": {
-			"Vectors": []
-		}
-	},
-
-	"LEMH": {
-		"01": {
-			"Vectors": []
-		},
-		"19": {
-			"Vectors": []
-		}
-	},
-
-	"EFKT": {
-		"16": {
-			"Vectors": []
-		},
-		"34": {
-			"KRDSH1A": [
-				"KRDSH", "DELTA", "LIMA", "SUDIP"
-			],
-			"KIT2D": [
-				"KIT", "SUDIP"
-			],
-			"EFLA3C": [
-				"EFLA", "BRAVO", "SUDIP"
-			]
-		}
-	},
+  },
 
 	"EGHI": {
 		"02": {
@@ -185,7 +144,16 @@ export const STARS: TStars = {
 		"20": {
 			"Vectors": []
 		}
-	},
+  },
+
+  "EGLC": {
+    "09": {
+      "Vectors": []
+    },
+    "27": {
+      "Vectors": []
+    }
+  },
 
 	"LCLK": {
 		"04": {
