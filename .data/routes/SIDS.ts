@@ -219,6 +219,53 @@ export const SIDS: TSids = {
 		"28": {
 			"Vectors": []
 		}
+	},
+
+	"PAFA": {
+		"02L": {
+			"GLEEN8": [
+				"FAI", "ENN", "GAL"
+			],
+			"MKNLY4": [
+				"FAI", "PUYVO", "TKA"
+			],
+			"PUYVO5": [
+				"PUYVO"
+			],
+			"RDFLG5": [
+				"SHMMR", "RDFLG"
+			]
+		},
+		"02R": {
+			"GLEEN8": [
+				"FAI", "ENN", "GAL"
+			],
+			"MKNLY4": [
+				"FAI", "PUYVO", "TKA"
+			]
+		},
+		"20R": {
+			"GLEEN8": [
+				"ENN", "GAL"
+			],
+			"MKNLY4": [
+				"PUYVO", "TKA"
+			],
+			"PUYVO5": [
+				"PUYVO"
+			],
+			"RDFLG5": [
+				"SHMMR", "RDFLG"
+			]
+		},
+		"20L": {
+			"GLEEN8": [
+				"ENN", "GAL"
+			],
+			"MKNLY4": [
+				"PUYVO", "TKA"
+			]
+		}
 	}
 };
 
