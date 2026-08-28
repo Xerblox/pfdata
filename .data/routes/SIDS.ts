@@ -68,10 +68,25 @@ export const SIDS: TSids = {
 
 	"MDST": {
 		"11": {
-			"Vectors": []
-		},
+			"KODIX2U": [
+                "ST530", "KODIX"
+            ],
+            "LERED2U": [
+                "ST530", "ST551", "LERED"
+            ],
+             "MALVN2U":[
+                "ST530", "ST551", "MALVN"
+            ]
+            
+		    },
 		"29": {
-			"Vectors": []
+			"LERED2V": [
+                "ST548", "LERED"
+            
+            ],
+            "MALVN2V": [
+                "ST548", "ST571", "MALVN"
+            ]
 		}
 	},
 
@@ -205,10 +220,30 @@ export const SIDS: TSids = {
 
 	"LCPH": {
 		"11": {
-			"Vectors": []
-		},
-		"29": {
-			"Vectors": []
+			"ESERI1R": [
+                "PH901", "ESERI"
+            ],
+            "GENOS1R": [
+                "PH901", "NIMSI", "GENOS"
+            ],
+            "RIMEX1R": [
+                "PH901", "PH950", "GIPRO", "RIMEX"
+            ]
+
+            },
+        "29": {
+           "ESERI1W":  [
+                "PH965", "ESERI"
+            ],
+            "GENOS1W": [
+                "PH965", "NIMSI", "GENOS"
+            ],
+             "NORDI1W":[
+                "PH965", "NORDI"
+            ],
+            "RIMEX1W": [
+                "PH965", "PH950", "GIPRO", "RIMEX"
+            ]
 		}
 	},
 
