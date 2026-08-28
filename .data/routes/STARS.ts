@@ -135,22 +135,7 @@ export const STARS: TStars = {
 		"30": {
 			"Vectors": []
 		}
-	},
-
-	"GCLP": {
-		"03L": {
-			"Vectors": []
-		},
-		"03R": {
-			"Vectors": []
-		},
-		"21L": {
-			"Vectors": []
-		},
-		"21R": {
-			"Vectors": []
-		}
-	},
+  },
 
 	"EGHI": {
 		"02": {
