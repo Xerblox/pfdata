@@ -185,7 +185,16 @@ export const STARS: TStars = {
 		"20": {
 			"Vectors": []
 		}
-	},
+  },
+
+  "EGLC": {
+    "09": {
+      "Vectors": []
+    },
+    "27": {
+      "Vectors": []
+    }
+  },
 
 	"LCLK": {
 		"04": {
