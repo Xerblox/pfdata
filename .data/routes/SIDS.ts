@@ -248,13 +248,19 @@ export const SIDS: TSids = {
   "EGLC": {
 		"09": {
 			"BPK1H": [
-				"LCE01"
+				"LCE01", "LCN03", "BPK"
+      ],
+			"ODUKU1H": [
+				"LCE01", "LCE02", "ODUKU"
 			]
     },
 		"27": {
 			"BPK1A": [
 				"LCW01", "LCN01", "LCN04", "LCN05", "BPK"
       ],
+      "ODUKU1A": [
+				"LCW01", "LCN02", "LCE04", "ODUKU"
+			]
 		}
 	},
 
