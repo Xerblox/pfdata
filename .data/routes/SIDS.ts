@@ -150,6 +150,28 @@ export const SIDS: TSids = {
 		}
 	},
 
+	"EGFF": {
+		"12": {
+			"LEKC1B": [
+				"LEKCI"
+      ],
+			"BCN1B": [
+				"BCN"
+			],
+			"EXMO1B": [
+				"EXMOR"
+			]
+    },
+		"30": {
+			"BCN1A": [
+				"BCN"
+			],
+			"EXMO1A": [
+				"EXMOR"
+			]
+		}
+	},
+
 	"LCLK": {
 		"04": {
 			"BONEK2W": [
