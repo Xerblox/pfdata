@@ -68,10 +68,25 @@ export const SIDS: TSids = {
 
 	"MDST": {
 		"11": {
-			"Vectors": []
-		},
+			"KODIX2U": [
+                "ST530", "KODIX"
+            ],
+            "LERED2U": [
+                "ST530", "ST551", "LERED"
+            ],
+             "MALVN2U":[
+                "ST530", "ST551", "MALVN"
+            ]
+            
+		    },
 		"29": {
-			"Vectors": []
+			"LERED2V": [
+                "ST548", "LERED"
+            
+            ],
+            "MALVN2V": [
+                "ST548", "ST571", "MALVN"
+            ]
 		}
 	},
 
@@ -103,11 +118,13 @@ export const SIDS: TSids = {
 	},
 
 	"EGKK": {
-		"08L": {
-			"Vectors": []
-		},
 		"08R": {
-			"Vectors": []
+            "IMVUR1Z": [ 
+                 "KKN09", "KKW19" , "IMVUR" 
+            ],
+            "ODVIK2Z": [ 
+                 "KKE04", "KKE10", "KKE17", "ODVIK"
+            ]
 		},
 		"26L": {
 			"BOGNA1X": [
@@ -148,10 +165,10 @@ export const SIDS: TSids = {
     },
 		"27": {
 			"BPK1A": [
-				"LCW01", "LCN01", "LCN04", "LCN05", "BPK"
+				"LCW01", "LCN02", "BPK"
       ],
       "ODUKU1A": [
-				"LCW01", "LCN02", "LCE04", "ODUKU"
+				"LCW01", "LCN03", "LCE04", "ODUKU"
 			]
 		}
 	},
@@ -211,10 +228,30 @@ export const SIDS: TSids = {
 
 	"LCPH": {
 		"11": {
-			"Vectors": []
-		},
-		"29": {
-			"Vectors": []
+			"ESERI1R": [
+                "PH901", "ESERI"
+            ],
+            "GENOS1R": [
+                "PH901", "NIMSI", "GENOS"
+            ],
+            "RIMEX1R": [
+                "PH901", "PH950", "GIPRO", "RIMEX"
+            ]
+
+            },
+        "29": {
+           "ESERI1W":  [
+                "PH965", "ESERI"
+            ],
+            "GENOS1W": [
+                "PH965", "NIMSI", "GENOS"
+            ],
+             "NORDI1W":[
+                "PH965", "NORDI"
+            ],
+            "RIMEX1W": [
+                "PH965", "PH950", "GIPRO", "RIMEX"
+            ]
 		}
 	},
 
@@ -229,7 +266,7 @@ export const SIDS: TSids = {
 
 	"LPMA": {
 		"05": {
-			"LAPAA1E": [
+			"LAPPA1E": [
 				"MA647", "PS702", "LAPPA"
 			],
 			"DEGUN1E": [
@@ -246,7 +283,7 @@ export const SIDS: TSids = {
 			]
 		},
 		"23": {
-			"LAPAA1W": [
+			"LAPPA1W": [
 				"MA647", "PS702", "LAPPA"
 			],
 			"DEGUN1W": [
