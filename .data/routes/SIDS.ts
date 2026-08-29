@@ -126,7 +126,7 @@ export const SIDS: TSids = {
                  "KKE04", "KKE10", "KKE17", "ODVIK"
             ],
 			"SFD4Z": [
-				"KKE02", "SFD"
+				"KKE05", "SFD"
 			],
 			"LAM1Z": [
 				"KKE05", "KKN09", "LAM"
