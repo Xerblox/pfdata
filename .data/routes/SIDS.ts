@@ -118,6 +118,12 @@ export const SIDS: TSids = {
 			],
 			"WIZAD1X": [
 				"KKW04", "KKW06", "KKS09", "KKS14", "KKS33", "WIZAD"
+			],
+			"SFD1X": [
+				"KKW06", "KKS13", "SFD"
+			],
+			"LAM6M": [
+				"LAM"
 			]
 		}
 	},
